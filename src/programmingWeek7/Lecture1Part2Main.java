@@ -4,6 +4,7 @@ public class Lecture1Part2Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 
 		Lecture1Part2_Car car1 = new Lecture1Part2_Car();
 		Lecture1Part2_Car car2 = new Lecture1Part2_Car();

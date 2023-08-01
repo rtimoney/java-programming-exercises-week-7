@@ -4,6 +4,7 @@ public class Lecture1Part1StringFormatting {
 
 	public static void main(String[] args) {
 		int int1 = 123;
+		
 	
 	
 		double double1 = 123.456;

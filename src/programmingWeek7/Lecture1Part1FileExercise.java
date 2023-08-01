@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+
 public class Lecture1Part1FileExercise {
 
 	// creating a set value that will not be changed within the code - a compile-time constant 
